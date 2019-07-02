@@ -2,8 +2,4 @@ Hello World
 
 Hello this will be new changes.
 
-<<<<<<< HEAD
-Last message
-=======
-I'm making a mess here.
->>>>>>> Conflicts
+
